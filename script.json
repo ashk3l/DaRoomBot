@@ -31,6 +31,11 @@
 		"THE GREEN KITCHEN" : "Well, it's the kitchen... that's green. It's on the third floor on the South side of the elevator. The one with the fridges.",
 		"RED KITCHEN" : "Well, it's the kitchen... that's red. It's on the fourth floor on the South side of the elevator. The one with the fridges.",
 		"THE RED KITCHEN" : "Well, it's the kitchen... that's red. It's on the fourth floor on the South side of the elevator. The one with the fridges.",
-		"DS GRAPH OF KHAN" : "KHAAAAAAAN! .... Sorry. I really get into this sometimes. It's on the South side of the fourth floor.",
-		"GRAPH OF KHAN" : "KHAAAAAAAN! .... Sorry. I really get into this sometimes. It's on the South side of the fourth floor."
+		"DS GRAPH OF KHAN" : "KHAAAAAAAN! .... Sorry. I really get into this sometimes. It's on the South side of the fourth floor. The entrance is on the other side of the red kitchen. Looks like a command centre, can't miss it.",
+		"GRAPH OF KHAN" : "KHAAAAAAAN! .... Sorry. I really get into this sometimes. It's on the South side of the fourth floor. The entrance is on the other side of the red kitchen. Looks like a command centre, can't miss it.",
+		"NARINDER" : "Surfacing the API... Okay found it! His office is in the North-West corner on the third floor. Beep boop beep.",
+		"NARINDER SAINI" : "Surfacing the API... Okay found it! His office is in the North-West corner on the third floor. Beep boop beep.",
+		"NARINDER'S OFFICE" : "Surfacing the API... Okay found it! His office is in the North-West corner on the third floor. Beep boop beep.",
+		"SIMON AU" : "Known to spend time in Narinder's office.",
+		"SIMON" : "Known to spend time in Narinder's office."
 }

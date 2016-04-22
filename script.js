@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you need to find a meeting room or office in Digital Services? I\'m here to help! Just say the the meeting room or full name of person you\'re looking for.')
+            return bot.say('Hello! I\'m the RoomBot. Simply type the name of the Digital Services meeting room or office that you\'re looking for and I can provide directions.')
                 .then(() => 'speak');
         }
     },
@@ -44,7 +44,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Sorry, I didn't understand that. Try a room name or the person you are looking for.`).then(() => 'speak');
+                    return bot.say(`Sorry, I didn't understand. Try a DS meeting room name or the name of the person you are looking for.`).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
