@@ -16,7 +16,7 @@
 		"WEST": "Richmond Street is West. Hope that helps!",
 		"WHICH WAY IS WEST?": "Richmond Street is West. Hope that helps!",
 		"WHICH WAY IS WEST": "Richmond Street is West. Hope that helps!",
-		"THANK YOU" : "Anytime!",
+		"THANK YOU" : "Anytime! Please tell your friends.",
 		"THANKS" : "I live to serve.",
 		"DS MVC HAMMER": "Stop. Hammer time! Fun fact: It's not a room. It's just a table with a TV in the farthest North-West corner of the third floor.",
 		"WHERE IS DS MVC HAMMER?":"Stop. Hammer time! Fun fact: It's not a room. It's just a table with a TV in the farthest North-West corner of the third floor.",
@@ -165,6 +165,7 @@
 		"GOOGLE FELLAS" : "#autocorrectproblems! Googlefellas isn't a room, but a table and TV in the farthest North-East corner... Expecting me to say something funny? Funny like I’m a clown? I’m here to amuse you?",
 		"GOODFELLAS" : "Around here we call that room Googlefellas. Haha, get it?",
 		"CHRIS MORRISON" : "Chris' office is on the South-West side of the fourth floor.",
+		"PETER PHILIPS" : "Peter's office is on the North-West side of the fourth floor.",
 		"PETER PHILLIPS" : "Peter's office is on the North-West side of the fourth floor.",
 		"JOEL GUSTAFSON" : "Joel's office is on South side of the fourth floor.",
 		"PAT MCLAUGHLIN" : "Pat's office is on the East side of the fourth floor."
