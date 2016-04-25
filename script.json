@@ -123,6 +123,7 @@
 		"THE LAN BEFORE TIME" : "Let your heart guide you. Or go to the North-West side of the fourth floor if that's easier. It's an open collaboration space.",
 		"DS THE LAN BEFORE TIME" : "Let your heart guide you. Or go to the North-West side of the fourth floor if that's easier. It's an open collaboration space.",
 		"THE LAND BEFORE TIME" : "Around here we call that room LAN Before Time.",
+		"LAND BEFORE TIME" : "Around here we call that room LAN Before Time.",
 		"LAN BEFORE TIME" : "Let your heart guide you. Or go to the North-West side of the fourth floor if that's easier. It's an open collaboration space.",
 		"21 JPEG STREET" : "You look kind of old to be in this room. If you still think it's cool to go it's on the North-West side of the fourth floor. It's a small two-person room.",
 		"DS 21 JPEG STREET" : "You look kind of old to be in this room. If you still think it's cool to go it's on the North-West side of the fourth floor. It's a small two-person room.",
@@ -138,6 +139,11 @@
 		"FAST AND THE FURIOUS" : "Around here we call that room The Font and the Furious. Haha, get it?",
 		"THE EXCELCIST" : "The power of digital compels you... to go to the South-East side of the Fourth floor!",
 		"DS THE EXCELCIST" : "The power of digital compels you... to go to the South-East side of the Fourth floor!",
-		"THE EXORCIST" : "Around here we call that room The Excelcist. Haha, get it?"
-
+		"THE EXORCIST" : "Around here we call that room The Excelcist. Haha, get it?",
+		"HELVETICABOY" : "I can promise you two things: One, I’ll always look this good, and two, the directions to the room. Head west on fourth floor and look for a two seat room along the west corridor.",
+		"DS HELVETICABOY" : "I can promise you two things: One, I’ll always look this good, and two, the directions to the room. Head west on fourth floor and look for a two seat room along the west corridor.",
+		"HELLBOY" : "Around here we call that room Helveticaboy. Haha, get it?",
+		"GOOGLEFELLAS" : "This is a tricky one! It's actually a collaboration space in the North-East corner of the fourth floor.",
+		"DS GOOGLEFELLAS" : "This is a tricky one! It's actually a collaboration space in the North-East corner of the fourth floor.",
+		"GOODFELLAS" : "Around here we call that room Googlefellas. Haha, get it?"
 }
