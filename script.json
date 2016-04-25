@@ -54,9 +54,9 @@
 		"DS GRAPH OF KHAN" : "KHAAAAAAAN! .... Sorry. I really get into this sometimes. It's on the South side of the fourth floor. The entrance is on the other side of the red kitchen. Looks like a command centre, can't miss it.",
 		"GRAPH OF KHAN" : "KHAAAAAAAN! .... Sorry. I really get into this sometimes. It's on the South side of the fourth floor. The entrance is on the other side of the red kitchen. Looks like a command centre, can't miss it.",
 		"WRATH OF KHAN" : "Around here we call that room Graph of Khan. Haha, get it?",
-		"NARINDER" : "Surfacing the API... Okay found it! His office is in the North-West corner on the third floor. Beep boop beep.",
-		"NARINDER SAINI" : "Surfacing the API... Okay found it! His office is in the North-West corner on the third floor. Beep boop beep.",
-		"NARINDER'S OFFICE" : "Surfacing the API... Okay found it! His office is in the North-West corner on the third floor. Beep boop beep.",
+		"NARINDER" : "Surfacing the API... Okay found it! Narinder's office is in the North-West corner on the third floor. Beep boop beep.",
+		"NARINDER SAINI" : "Surfacing the API... Okay found it! Narinder's office is in the North-West corner on the third floor. Beep boop beep.",
+		"NARINDER'S OFFICE" : "Surfacing the API... Okay found it! Narinder's office is in the North-West corner on the third floor. Beep boop beep.",
 		"SIMON AU" : "Known to spend time in Narinder's office.",
 		"SIMON" : "Simon Au? If so, he's known to spend time in Narinder's office.",
 		"SIMON'S OFFICE" : "Known to spend time in Narinder's office.",
@@ -72,6 +72,8 @@
 		"HARLA" : "Harla sits on the South-West side of the Green Kitchen on the third floor.",
 		"BETTY WATSON" : "Betty sits on the South-West side of the Green Kitchen on the third floor.",
 		"BETTY" : "Betty sits on the South-West side of the Green Kitchen on the third floor.",
+		"PAMELA ALI" : "Pamela sits on the South-West side of the Green Kitchen on the third floor.",
+		"PAM" : "Pamela Ali? She sits on the South-West side of the Green Kitchen on the third floor."
 		"DARLYS CORBITT" : "Darlys' office is on the West side fourth floor.",
 		"DARLYS" : "Darlys' office is on the West side fourth floor.",
 		"DARLYS' OFFICE" : "Darlys' office is on the West side fourth floor.",
@@ -158,4 +160,4 @@
 		"PETER PHILLIPS" : "Peter's office is on the North-West side of the fourth floor.",
 		"JOEL GUSTAFSON" : "Joel's office is on South side of the fourth floor.",
 		"PAT MCLAUGHLIN" : "Pat's office is on the East side of the fourth floor."
-}
+	}
