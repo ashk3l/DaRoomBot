@@ -45,8 +45,8 @@
 		"DS JOHNNY CACHE": "Careful, don't hurt yourself (Get it?). Head South from the elevator towards the Green Kitchen. It's the boardroom with sliding green double doors. You can also find your way in if you walk around to the other side.",
 		"JOHNNY CACHE": "Walk the line South from the elevator to the Green Kitchen. It's the boardroom with sliding green double doors. You can also find your way in if you walk around to the other side.",
 		"JOHNNY CASH" : "Around here we call that room Johnny Cache. Haha, get it?",
-		"DS LINKEDIN PARK": "This room is on the third floor on the East side of the building. This is a medium sized room near the middle of the floor. Looks like we found a few people you may know!",
-		"LINKEDIN PARK": "This room is on the third floor on the East side of the building. This is a medium sized room near the middle of the floor. Looks like we found a few people you may know!",
+		"DS LINKEDIN PARK": "This room is on the third floor on the East side of the building near the middle of the floor. Looks like we found a few people you may know!",
+		"LINKEDIN PARK": "This room is on the third floor on the East side of the building near the middle of the floor. Looks like we found a few people you may know!",
 		"DS NOTORIOUS PNG": "Put your hands in the air and head to the North-West side of the third floor.",
 		"NOTORIOUS PNG": "Put your hands in the air and head to the North-West side of the third floor.",
 		"NOTORIOUS BIG" : "Around here we call that room Notorious PNG. Haha, get it?",
@@ -179,5 +179,13 @@
 		"HAHA" : "Hahaha",
 		"LOL" : "Teehee",
 		"YES" : "Anything else I can help with?",
-		"YES!" : "Anything else I can help with?"
+		"YES!" : "Anything else I can help with?",
+		"HELP" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719.",
+		"HELP ME" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719.",
+		"I CAN'T GET IN" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719.",
+		"LET ME IN" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719.",
+		"I'M HERE" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719.",
+		"I CAN'T FIND IT" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719.",
+		"I CAN'T FIND THE ROOM" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719.",
+		"CAN'T FIND THE ROOM" : "Do you need human assistance? On the third floor call Harla O'Neill at 519-435-4095 or  Betty Watson at 519-435-7397. On the fourth floor call Jen Maxwell at 519-435-7719."
 	}
